@@ -1,4 +1,4 @@
-# Vuln-finder
+# Cvefinder
 A simple commandline app for searching and looking up opensource vulnerabilities
 
 # Installation
