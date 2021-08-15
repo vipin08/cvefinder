@@ -5,20 +5,20 @@ A simple commandline app for searching and looking up opensource vulnerabilities
 
 ## Using Pip
 ```bash
-  $ pip install vuln-finder
+  $ pip install cvefinder
 ```
 
 # Usage
 ```bash
-$ cver
+$ cvefinder
 ```
 ## Search
 `search <keyword>`
 ```bash
-$ cver search python
+$ cvefinder search python
 ```
 ## Lookup
 `search <name>`
 ```bash
-$ cver look-up CVE-2020-2121
+$ cvefinder look-up CVE-2020-2121
 ```
